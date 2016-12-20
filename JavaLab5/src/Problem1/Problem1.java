@@ -28,7 +28,6 @@ public class Problem1 {
 
 
         }
-        //System.in.read();
 
     }
 }
