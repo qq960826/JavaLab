@@ -21,7 +21,6 @@ public class Problem3 {
             result[i]=student;
         }
         return result;
-
     }
     public static Student[] loadfrominput(){
         Scanner scanner=new Scanner(System.in);
